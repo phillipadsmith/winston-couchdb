@@ -14,7 +14,7 @@
     "cycle": "1.0.x"
   },
   "devDependencies": {
-    "winston": "0.7.x",
+    "winston": "https://github.com/phillipadsmith/cradle",
     "vows": "0.6.x"
   },
   "main": "./lib/winston-couchdb",
